@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z-yannn&label=Profile%20views&color=0e75b6&style=flat" alt="z-yannn" /> </p>
 
-- 🔭 I’m currently working on **XML Database Implementation**
+- 🔭 I’m currently working in **WeChat PayScore**
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **full stack development**
 
-- 🤝 I’m looking for help with **2024 Summer Intern Opportunity**
+- 🤝 I’m looking for help with **2025 Summer Intern Opportunity**
 
 - 👨‍💻 All of my projects are available at [https://z-yannn.github.io/](https://z-yannn.github.io/)
 
